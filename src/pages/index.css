@@ -1,0 +1,38 @@
+.jumbotron {
+  background: url(../../static/images/forest.jpg);
+  background-repeat: no-repeat, repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 50px;
+  font-weight: bold;
+  margin-top: 100px;
+  padding: 100px;
+  border-radius: 50px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.jumbotron .text-h1,
+.text-p {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 50px;
+}
+
+.text-h1 {
+  text-align: center;
+}
+.about {
+  width: 100vw;
+  height: 90vh;
+}
+
+strong .title-text-skills {
+  justify-content: center;
+  margin: 0 auto;
+}
+.mail-text {
+  /* display: block;
+  justify-content: center;
+  margin: 0 auto; */
+  text-align: center;
+  padding: 10px;
+}
