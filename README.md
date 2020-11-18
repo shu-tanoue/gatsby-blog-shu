@@ -1,5 +1,4 @@
-[<img width="897" alt="Screen Shot 2020-11-17 at 9 23 09 PM" src="https://user-images.githubusercontent.com/58486460/99487866-10a4f000-291c-11eb-884a-817e8528fcf0.png">]
-[<img width="1435" alt="westvan-homepage" src="https://user-images.githubusercontent.com/58486460/89723601-932d2380-d9ad-11ea-8ecb-9a11eba6c127.png">]
+<img width="897" alt="Screen Shot 2020-11-17 at 9 23 09 PM" src="https://user-images.githubusercontent.com/58486460/99487866-10a4f000-291c-11eb-884a817e8528fcf0.png">
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
