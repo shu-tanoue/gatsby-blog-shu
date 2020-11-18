@@ -1,4 +1,4 @@
-<img width="897" alt="Screen Shot 2020-11-17 at 9 23 09 PM" src="https://user-images.githubusercontent.com/58486460/99487866-10a4f000-291c-11eb-884a-817e8528fcf0.png">
+<img width="897"align="center" alt="Screen Shot 2020-11-17 at 9 23 09 PM" src="https://user-images.githubusercontent.com/58486460/99487866-10a4f000-291c-11eb-884a-817e8528fcf0.png">
 
 
 
